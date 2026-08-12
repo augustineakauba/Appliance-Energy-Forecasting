@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+pytest
+
+# Foundation model (notebook 06 only; large - install where you run it)
+# torch
+# chronos-forecasting

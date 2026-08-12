@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data - raw file is large; re-download with scripts/download_data.py
+data/raw/*.csv
+data/processed/*.csv
+
+# Node (only used to build the report docx)
+node_modules/
+package.json
+package-lock.json
+reports/page-*.jpg
+

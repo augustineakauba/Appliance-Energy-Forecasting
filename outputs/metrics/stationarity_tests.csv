@@ -1,0 +1,7 @@
+series,test,statistic,p_value,crit_5%,conclusion
+raw,ADF,-8.761,0.0,-2.863,stationary
+raw,KPSS,0.061,0.1,0.463,stationary
+diff(1),ADF,-15.948,0.0,-2.863,stationary
+diff(1),KPSS,0.042,0.1,0.463,stationary
+seasonal diff(24),ADF,-12.672,0.0,-2.863,stationary
+seasonal diff(24),KPSS,0.015,0.1,0.463,stationary

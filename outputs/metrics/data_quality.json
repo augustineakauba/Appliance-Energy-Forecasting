@@ -1,0 +1,9 @@
+{
+  "n_rows": 19735,
+  "start": "2016-01-11 17:00:00",
+  "end": "2016-05-27 18:00:00",
+  "n_missing_values": 0,
+  "n_duplicate_timestamps": 0,
+  "n_gaps_in_10min_grid": 0,
+  "hourly_rows": 3290
+}
